@@ -28,7 +28,7 @@ export default function Sections() {
 					<p class={styles.desc}>
 						Full access for less than $1 a day
 					</p>
-					<a href='#' class='btn btn--primary btn--full'>
+					<a href="#" class="btn btn--primary btn--full">
 						Sign Up
 					</a>
 				</section>
